@@ -1,0 +1,17 @@
+This is record of your calculation in matrix form for Nodal Analysis by Inspection
+
+First matrix:
+  0.666667  -0.166667
+  -0.166667  0.309524
+
+Second matrix:
+  1
+  -4
+
+Answer in matrix form:
+  -2
+  -14
+
+
+
+Thank you ^-^

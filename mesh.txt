@@ -1,0 +1,17 @@
+This is record of your calculation in matrix form for Mesh Analysis by Inspection
+
+First matrix:
+  18  -12
+  -12  24
+
+Second matrix:
+  36
+  -24
+
+Answer in matrix form:
+  2
+  0
+
+
+
+Thank you ^-^
