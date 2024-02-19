@@ -1,9 +1,9 @@
 # CircuitCalculator
 This is a group project made by our team:
-Noorul Ghousiah
-Adibatunnisa'
-Adlin Johana
-Nurul Aqiella
+Noorul Ghousiah;
+Adibatunnisa';
+Adlin Johana;
+Nurul Aqiella.
 
 This is a calculator for circuit analysis so that the value of currents or voltages of a particular  circuit can be determined precisely.
 It is specifically built to analyse DC circuit with independent sources and linear resistors
